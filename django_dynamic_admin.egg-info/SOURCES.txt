@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+django_dynamic_admin/__init__.py
+django_dynamic_admin/admin.py
+django_dynamic_admin/models.py
+django_dynamic_admin.egg-info/PKG-INFO
+django_dynamic_admin.egg-info/SOURCES.txt
+django_dynamic_admin.egg-info/dependency_links.txt
+django_dynamic_admin.egg-info/requires.txt
+django_dynamic_admin.egg-info/top_level.txt
